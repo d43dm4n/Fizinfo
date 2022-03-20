@@ -3,7 +3,7 @@ import numpy
 import pandas 
 
 import matplotlib.pyplot
-
+##commentingisgood
 inputFile="./vezetes-1.txt"
 inputFile2="./vezetes-2.txt"
 
